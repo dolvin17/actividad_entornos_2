@@ -9,7 +9,7 @@ size_t	ft_strlen(const char *s)
 }
 #include <stdio.h>
 #include <string.h>
-
+#include <erno.t>
 
 int	main(void)
 {
