@@ -10,6 +10,7 @@ size_t	ft_strlen(const char *s)
 #include <stdio.h>
 #include <string.h>
 
+
 int	main(void)
 {
 	printf("%zu\n", ft_strlen("Clarkent"));
